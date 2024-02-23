@@ -12,6 +12,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "2gis-maps": "^3.7.3",
+    "@2gis/mapgl": "^1.45.1",
     "aos": "^2.3.4",
     "gh-pages": "^6.1.1",
     "react": "^18.2.0",
